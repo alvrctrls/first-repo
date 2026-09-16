@@ -2,5 +2,11 @@
 2. cd into the first-repo directory
 3. git init
 4. Open vscode with code .
-Create a notes.txt file and take note of the letter u (Untracked)
-6. git status check the status of our current repo.
+5. Create a notes.txt file and take note of the letter u (Untracked)
+6. git status check the status of our current repo. 
+7. git add . adds all changes in current directory
+8. git commit -m "add rep notes" snapshots changes made and leaves notes on change done
+9. git log tracks changes done
+10. git remote add origin "SSH key" uses key from github to fetch and push changes to directory
+11. git branch -M main
+12. git push -u origin main 
