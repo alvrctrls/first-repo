@@ -1,0 +1,6 @@
+1.  Create a local directory called first-repo
+2. cd into the first-repo directory
+3. git init
+4. Open vscode with code .
+Create a notes.txt file and take note of the letter u (Untracked)
+6. git status check the status of our current repo.
